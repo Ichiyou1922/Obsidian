@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Linear-Algebra/学習範囲.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "学習範囲"
             }
           }
         ]
@@ -180,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,14 +197,24 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Linear-Algebra/Invertibility.md",
+    "Linear-Algebra/Matrix_Multiplication.md",
+    "Linear-Algebra/Matrix_Excercise.md",
+    "Linear-Algebra/Matrix.md",
+    "Linear-Algebra/ComplexVector.md",
+    "Linear-Algebra/ComplexVector.md~",
+    "Linear-Algebra/Linear_Combination_Answer.md",
+    "Linear-Algebra/Linear_Combination_Answer.md~",
+    "Linear-Algebra/線型結合.md",
+    "Linear-Algebra/学習範囲.md",
+    "Linear-Algebra/ベクトル.md",
     "README.md",
+    "Welcome.md",
     "Complex_Function/範囲.md",
     "manifold/範囲.md",
     "Complex_Function",
     "analysis/範囲.md",
     "manifold",
-    "Linear-Algebra/学習範囲.md",
     "analysis",
     "copilot/copilot-conversations/ページ全体をマークダウン形式で書き直してください．@20251223_104104.md",
     "copilot/copilot-conversations/ページ全体をマークダウン形式に書き直してください．@20251223_104319.md",
@@ -218,19 +229,9 @@
     "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts/Explain like I am 5.md",
     "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot/copilot-custom-prompts",
     "copilot",
-    "High_School_Math/A1.md",
     "Linear-Algebra",
-    "High_School_Math/Q1.md",
-    "High_School_Math/A1",
-    "Middle-Science/2-ver2.md",
-    "High_School_Math",
-    "Middle-Science/1-ver3.md",
-    "Middle-Science/1-ver2.md",
-    "Kant_AbMath"
+    "High_School_Math/A1"
   ]
 }
