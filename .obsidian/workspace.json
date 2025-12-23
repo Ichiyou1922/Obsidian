@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/Linear_Mapping.md",
+                "file": "analysis/範囲ver2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Linear_Mapping"
+              "title": "範囲ver2"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
-    "Linear-Algebra/Block_Multiplication.md",
+    "analysis/Real_Number.md",
+    "analysis/範囲ver2.md",
     "Linear-Algebra/Linear_Mapping.md",
+    "Linear-Algebra/Block_Multiplication.md",
     "Linear-Algebra/学習範囲.md",
     "Linear-Algebra/Invertibility.md",
     "Linear-Algebra/Matrix_Multiplication.md",
@@ -227,8 +229,6 @@
     "copilot/copilot-custom-prompts/Generate glossary.md",
     "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Linear-Algebra",
