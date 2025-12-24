@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "analysis/ODE.md",
+                "file": "Linear-Algebra/Simultaneous_Linear_Equations.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ODE"
+              "title": "Simultaneous_Linear_Equations"
             }
           }
         ]
@@ -197,8 +197,9 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
-    "analysis/範囲ver2.md",
     "analysis/ODE.md",
+    "Linear-Algebra/Simultaneous_Linear_Equations.md",
+    "analysis/範囲ver2.md",
     "analysis/Real_Number.md",
     "Linear-Algebra/Linear_Mapping.md",
     "Linear-Algebra/Block_Multiplication.md",
@@ -228,7 +229,6 @@
     "copilot/copilot-custom-prompts/Rewrite as tweet.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
     "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
     "copilot/copilot-custom-prompts",
     "copilot",
     "Linear-Algebra",
