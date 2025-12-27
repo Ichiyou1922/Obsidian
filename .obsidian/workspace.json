@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/学習範囲.md",
+                "file": "Linear-Algebra/Representation_Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "学習範囲"
+              "title": "Representation_Matrix"
             }
           }
         ]
@@ -197,9 +197,12 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
+    "Linear-Algebra/Basis_Dimension.md",
+    "Linear-Algebra/Representation_Matrix.md",
+    "Linear-Algebra/Linear_Independent.md",
+    "Linear-Algebra/学習範囲.md",
     "Linear-Algebra/ベクトル.md",
     "Linear-Algebra/Elementary_Operations & Matrices.md",
-    "Linear-Algebra/学習範囲.md",
     "Linear-Algebra/Cofactor_expansion.md",
     "Linear-Algebra/Nature_of_Determinant.md",
     "test.md",
@@ -222,9 +225,6 @@
     "Linear-Algebra/Linear_Combination_Answer.md~",
     "Linear-Algebra/線型結合.md",
     "README.md",
-    "Welcome.md",
-    "Complex_Function/範囲.md",
-    "manifold/範囲.md",
     "Complex_Function",
     "manifold",
     "analysis",
