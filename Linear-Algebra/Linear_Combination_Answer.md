@@ -6,17 +6,17 @@ $$W = \{ \boldsymbol{x} = \begin{pmatrix} x \\ y \\ z \end{pmatrix} \in \mathbb{
 
 **検証プロセス：**
 
-(1) 零ベクトルの確認
+(1) 零[[ベクトル]]の確認
 
-まず，零ベクトル $\mathbf{0} = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$ が $W$ に含まれるか確認する．
+まず，零[[ベクトル]] $\mathbf{0} = \begin{pmatrix} 0 \\ 0 \\ 0 \end{pmatrix}$ が $W$ に含まれるか確認する．
 
 条件式 $x + y + z = 0$ に代入すると: 
 $0 + 0 + 0 = 0$
-よって，零ベクトルは $W$ に含まれる．
+よって，零[[ベクトル]]は $W$ に含まれる．
 
 (2) 加法についての閉性
 
-任意の2つのベクトル $\boldsymbol{u} = \begin{pmatrix} u_1 \\ u_2 \\ u_3 \end{pmatrix} \in W$，$\boldsymbol{v} = \begin{pmatrix} v_1 \\ v_2 \\ v_3 \end{pmatrix} \in W$ を取る．
+任意の2つの[[ベクトル]] $\boldsymbol{u} = \begin{pmatrix} u_1 \\ u_2 \\ u_3 \end{pmatrix} \in W$，$\boldsymbol{v} = \begin{pmatrix} v_1 \\ v_2 \\ v_3 \end{pmatrix} \in W$ を取る．
 
 これらが $W$ の元であるという前提条件は，以下の式で表される：
 

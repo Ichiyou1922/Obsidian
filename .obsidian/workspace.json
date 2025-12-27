@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/Representation_Matrix.md",
+                "file": "Linear-Algebra/Basis_Dimension.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Representation_Matrix"
+              "title": "Basis_Dimension"
             }
           }
         ]
@@ -197,8 +197,10 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
-    "Linear-Algebra/Basis_Dimension.md",
     "Linear-Algebra/Representation_Matrix.md",
+    "link_notes.py",
+    "analyze_links.py",
+    "Linear-Algebra/Basis_Dimension.md",
     "Linear-Algebra/Linear_Independent.md",
     "Linear-Algebra/学習範囲.md",
     "Linear-Algebra/ベクトル.md",
@@ -224,14 +226,11 @@
     "Linear-Algebra/Linear_Combination_Answer.md",
     "Linear-Algebra/Linear_Combination_Answer.md~",
     "Linear-Algebra/線型結合.md",
-    "README.md",
     "Complex_Function",
     "manifold",
     "analysis",
     "copilot/copilot-conversations",
     "copilot/copilot-custom-prompts",
-    "copilot",
-    "Linear-Algebra",
-    "High_School_Math/A1"
+    "copilot"
   ]
 }
