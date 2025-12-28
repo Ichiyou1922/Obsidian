@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/Real_Quadratic_Forms&Hermitian_Forms.md",
+                "file": "Linear-Algebra/Quadratic_Curves&Surfaces.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Real_Quadratic_Forms&Hermitian_Forms"
+              "title": "Quadratic_Curves&Surfaces"
             }
           }
         ]
@@ -198,6 +198,7 @@
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
     "Linear-Algebra/学習範囲.md",
+    "Linear-Algebra/Quadratic_Curves&Surfaces.md",
     "Linear-Algebra/Real_Quadratic_Forms&Hermitian_Forms.md",
     "Linear-Algebra/Normal_Matrix.md",
     "Linear-Algebra/Symmetric_Matrices&Spectral_Theorem.md",
@@ -224,7 +225,6 @@
     "Linear-Algebra/Permutation.md",
     "Linear-Algebra/Determinant.md",
     "Linear-Algebra/Simultaneous_Linear_Equations.md",
-    "analysis/ODE.md",
     "Linear-Algebra/ComplexVector.md~",
     "Linear-Algebra/Linear_Combination_Answer.md~",
     "Complex_Function",
