@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/Basis_Dimension.md",
+                "file": "Linear-Algebra/Real_Quadratic_Forms&Hermitian_Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Basis_Dimension"
+              "title": "Real_Quadratic_Forms&Hermitian_Forms"
             }
           }
         ]
@@ -197,12 +197,24 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
+    "Linear-Algebra/学習範囲.md",
+    "Linear-Algebra/Real_Quadratic_Forms&Hermitian_Forms.md",
+    "Linear-Algebra/Normal_Matrix.md",
+    "Linear-Algebra/Symmetric_Matrices&Spectral_Theorem.md",
+    "Linear-Algebra/Orthogonal_Matrix＆Isometry.md",
+    "Linear-Algebra/Orthogonal_Complement&Direct_Sum.md",
+    "Linear-Algebra/Gram_Schmidt_Process_Question.md",
+    "Linear-Algebra/Gram_Schmidt_Process.md",
+    "Linear-Algebra/Inner_Product.md",
+    "Linear-Algebra/Can`t_Diagonalization.md",
+    "Linear-Algebra/Eigenvalue_Add.md",
+    "Linear-Algebra/Eigen_Value.md",
+    "Linear-Algebra/Rank.md",
+    "Linear-Algebra/Basis_Dimension.md",
     "Linear-Algebra/Representation_Matrix.md",
     "link_notes.py",
     "analyze_links.py",
-    "Linear-Algebra/Basis_Dimension.md",
     "Linear-Algebra/Linear_Independent.md",
-    "Linear-Algebra/学習範囲.md",
     "Linear-Algebra/ベクトル.md",
     "Linear-Algebra/Elementary_Operations & Matrices.md",
     "Linear-Algebra/Cofactor_expansion.md",
@@ -213,19 +225,8 @@
     "Linear-Algebra/Determinant.md",
     "Linear-Algebra/Simultaneous_Linear_Equations.md",
     "analysis/ODE.md",
-    "analysis/範囲ver2.md",
-    "analysis/Real_Number.md",
-    "Linear-Algebra/Linear_Mapping.md",
-    "Linear-Algebra/Block_Multiplication.md",
-    "Linear-Algebra/Invertibility.md",
-    "Linear-Algebra/Matrix_Multiplication.md",
-    "Linear-Algebra/Matrix_Excercise.md",
-    "Linear-Algebra/Matrix.md",
-    "Linear-Algebra/ComplexVector.md",
     "Linear-Algebra/ComplexVector.md~",
-    "Linear-Algebra/Linear_Combination_Answer.md",
     "Linear-Algebra/Linear_Combination_Answer.md~",
-    "Linear-Algebra/線型結合.md",
     "Complex_Function",
     "manifold",
     "analysis",
