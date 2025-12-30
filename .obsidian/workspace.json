@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/Quadratic_Curves&Surfaces.md",
+                "file": "Linear-Algebra/Lecture_Note/Phase13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quadratic_Curves&Surfaces"
+              "title": "Phase13"
             }
           }
         ]
@@ -197,8 +197,23 @@
   },
   "active": "b2590dd10ea9cfc5",
   "lastOpenFiles": [
-    "Linear-Algebra/学習範囲.md",
+    "Linear-Algebra/Lecture_Note/Phase12.md",
+    "Linear-Algebra/Lecture_Note/Phase11.md",
+    "Linear-Algebra/Lecture_Note/Phase10.md",
+    "Linear-Algebra/Lecture_Note/Phase9.md",
+    "Linear-Algebra/Lecture_Note/Phase8.md",
+    "Linear-Algebra/Lecture_Note/Phase7.md",
+    "Linear-Algebra/Lecture_Note/Phase6.md",
+    "Linear-Algebra/Lecture_Note/Phase5.md",
+    "Linear-Algebra/Lecture_Note/Phase4.md",
+    "Linear-Algebra/Lecture_Note/Phase3_2.md",
+    "Linear-Algebra/Lecture_Note/Phase13.md",
+    "Linear-Algebra/Lecture_Note/Phase3.md",
+    "Linear-Algebra/Lecture_Note/Phase2.md",
+    "Linear-Algebra/Lecture_Note/Phase1.md",
     "Linear-Algebra/Quadratic_Curves&Surfaces.md",
+    "Linear-Algebra/Lecture_Note",
+    "Linear-Algebra/学習範囲.md",
     "Linear-Algebra/Real_Quadratic_Forms&Hermitian_Forms.md",
     "Linear-Algebra/Normal_Matrix.md",
     "Linear-Algebra/Symmetric_Matrices&Spectral_Theorem.md",
@@ -209,29 +224,14 @@
     "Linear-Algebra/Inner_Product.md",
     "Linear-Algebra/Can`t_Diagonalization.md",
     "Linear-Algebra/Eigenvalue_Add.md",
-    "Linear-Algebra/Eigen_Value.md",
-    "Linear-Algebra/Rank.md",
-    "Linear-Algebra/Basis_Dimension.md",
-    "Linear-Algebra/Representation_Matrix.md",
     "link_notes.py",
     "analyze_links.py",
-    "Linear-Algebra/Linear_Independent.md",
-    "Linear-Algebra/ベクトル.md",
-    "Linear-Algebra/Elementary_Operations & Matrices.md",
-    "Linear-Algebra/Cofactor_expansion.md",
-    "Linear-Algebra/Nature_of_Determinant.md",
-    "test.md",
-    "Linear-Algebra/Definition_of_Determinant.md",
-    "Linear-Algebra/Permutation.md",
-    "Linear-Algebra/Determinant.md",
-    "Linear-Algebra/Simultaneous_Linear_Equations.md",
     "Linear-Algebra/ComplexVector.md~",
     "Linear-Algebra/Linear_Combination_Answer.md~",
     "Complex_Function",
     "manifold",
     "analysis",
     "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot"
+    "copilot/copilot-custom-prompts"
   ]
 }
