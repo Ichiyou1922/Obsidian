@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linear-Algebra/Lecture_Note/Phase13.md",
+                "file": "1grade/linear_algebra/range.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Phase13"
+              "title": "range"
+            }
+          },
+          {
+            "id": "c11d38d90a246484",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1grade/linear_algebra/range.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "range"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,8 +210,21 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b2590dd10ea9cfc5",
+  "active": "c11d38d90a246484",
   "lastOpenFiles": [
+    "1grade/differential_and_integral_calculus/range.md",
+    "1grade/applied_mathematics/range.md",
+    "1grade/linear_algebra/range.md",
+    "Multillinear_Algebra/1-2.md",
+    "1grade/linear_algebra",
+    "1grade/無題のファイル.md",
+    "1grade/differential_and_integral_calculus",
+    "1grade/applied_mathematics",
+    "1grade",
+    "Multillinear_Algebra/1-1.md",
+    "Multillinear_Algebra/範囲.md",
+    "Linear-Algebra/Lecture_Note/Phase13.md",
+    "Multillinear_Algebra",
     "Linear-Algebra/Lecture_Note/Phase12.md",
     "Linear-Algebra/Lecture_Note/Phase11.md",
     "Linear-Algebra/Lecture_Note/Phase10.md",
@@ -207,7 +235,6 @@
     "Linear-Algebra/Lecture_Note/Phase5.md",
     "Linear-Algebra/Lecture_Note/Phase4.md",
     "Linear-Algebra/Lecture_Note/Phase3_2.md",
-    "Linear-Algebra/Lecture_Note/Phase13.md",
     "Linear-Algebra/Lecture_Note/Phase3.md",
     "Linear-Algebra/Lecture_Note/Phase2.md",
     "Linear-Algebra/Lecture_Note/Phase1.md",
@@ -217,21 +244,9 @@
     "Linear-Algebra/Real_Quadratic_Forms&Hermitian_Forms.md",
     "Linear-Algebra/Normal_Matrix.md",
     "Linear-Algebra/Symmetric_Matrices&Spectral_Theorem.md",
-    "Linear-Algebra/Orthogonal_Matrix＆Isometry.md",
-    "Linear-Algebra/Orthogonal_Complement&Direct_Sum.md",
-    "Linear-Algebra/Gram_Schmidt_Process_Question.md",
-    "Linear-Algebra/Gram_Schmidt_Process.md",
-    "Linear-Algebra/Inner_Product.md",
-    "Linear-Algebra/Can`t_Diagonalization.md",
-    "Linear-Algebra/Eigenvalue_Add.md",
     "link_notes.py",
     "analyze_links.py",
     "Linear-Algebra/ComplexVector.md~",
-    "Linear-Algebra/Linear_Combination_Answer.md~",
-    "Complex_Function",
-    "manifold",
-    "analysis",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts"
+    "Linear-Algebra/Linear_Combination_Answer.md~"
   ]
 }
