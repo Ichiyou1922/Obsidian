@@ -1,0 +1,11 @@
+@media print {
+  /* 編集モードの改行を強制的に反映させる */
+  .markdown-preview-view br {
+    display: block;
+  }
+  
+  /* 段落間の余白調整（必要に応じて） */
+  p {
+    margin-bottom: 0.5em; 
+  }
+}
